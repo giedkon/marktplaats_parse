@@ -8,7 +8,8 @@
                 </v-card-title>
                 <v-card-subtitle>
                     Using Laravel v8.12 for back-end with Vue.js & Vuetify for front-end. <br>
-                    Intervention/Image for image processing.
+                    Intervention/Image for image processing. <br><br>
+                    <v-btn href="https://github.com/giedkon/marktplaats_parse"><v-icon>mdi-github</v-icon>Github</v-btn>
                 </v-card-subtitle>
                 <v-card-text>
                     <v-alert v-if="error" color="error">{{ error }}</v-alert>

@@ -1941,6 +1941,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: "App",
   data: function data() {
@@ -19702,15 +19703,32 @@ var render = function() {
                 )
               ]),
               _vm._v(" "),
-              _c("v-card-subtitle", [
-                _vm._v(
-                  "\n                Using Laravel v8.12 for back-end with Vue.js & Vuetify for front-end. "
-                ),
-                _c("br"),
-                _vm._v(
-                  "\n                Intervention/Image for image processing.\n            "
-                )
-              ]),
+              _c(
+                "v-card-subtitle",
+                [
+                  _vm._v(
+                    "\n                Using Laravel v8.12 for back-end with Vue.js & Vuetify for front-end. "
+                  ),
+                  _c("br"),
+                  _vm._v(
+                    "\n                Intervention/Image for image processing. "
+                  ),
+                  _c("br"),
+                  _c("br"),
+                  _vm._v(" "),
+                  _c(
+                    "v-btn",
+                    {
+                      attrs: {
+                        href: "https://github.com/giedkon/marktplaats_parse"
+                      }
+                    },
+                    [_c("v-icon", [_vm._v("mdi-github")]), _vm._v("Github")],
+                    1
+                  )
+                ],
+                1
+              ),
               _vm._v(" "),
               _c(
                 "v-card-text",
