@@ -1,0 +1,75 @@
+/*html {
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.container{
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col {
+    flex-grow: 1;
+}
+
+.textBox {
+    outline: 1px solid orange;
+    border-radius: 5px;
+    background: white;
+
+    border-style: none;
+
+
+    min-height: 25px;
+    min-width: 100%;
+
+
+}
+.textBox:hover {
+    outline-width: 2px;
+    border-radius: 5px;
+}
+.textBox:focus {
+    outline-width: 2px;
+    border-radius: 5px;
+}
+
+.button {
+    height: 100%;
+    width: 100%;
+    background: orange;
+    border-radius: 5px;
+    border-style: none;
+    outline: 1px solid orange;
+
+}
+
+.button:hover {
+    cursor: pointer;
+    outline-width: 2px;
+    border-radius: 5px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.tableORCA{
+    width:100%;
+}
+
+.tableORCA td{
+    width:50%;
+}
+*/
+
